@@ -1,3 +1,29 @@
 body{
-    background-color: navy;
+    background-color: black;
+    color: white;
+}
+.center{
+    display: flex;
+    justify-content: center;
+}
+.blue{
+    color: blue;
+}
+.grey{
+    color: gray;
+}
+.green{
+    color: green;
+}
+.red{
+    color: red;
+}
+.teal{
+    color: teal;
+}
+.yellow{
+    color: yellow;
+}
+.white{
+    color: white;
 }
